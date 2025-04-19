@@ -55,10 +55,4 @@ To get started with this API collection:
   "category": "audio"
 ---
 }
-###### 4.🛠 Tools Used
--Postman
 
--📂 Folder Structure
-Dummy-JSON-Products-API/
-├── 🗄️ README.md
-└── 🗄️ Dummy JSON Products API.postman_collection.json
